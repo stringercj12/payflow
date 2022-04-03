@@ -8,9 +8,7 @@ class LoginController {
 
   Future<void> googleSignIn(BuildContext context) async {
     GoogleSignIn _googleSignIn = GoogleSignIn(
-      scopes: [
-        'email',
-      ],
+      scopes: ['email'],
     );
     try {
       final response = await _googleSignIn.signIn();

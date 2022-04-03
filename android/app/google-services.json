@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "197259361423-ocbqud7iffnbrfm1t992pgs47dd5vhgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "c27b1645634c421dc5d9b47c0f4dd89aed0eb7cf"
+          }
+        },
+        {
           "client_id": "197259361423-mu22rce0v1jdsi8hkaclmeqa0vf0kefi.apps.googleusercontent.com",
           "client_type": 3
         }

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:payflow/shared/themes/app_images.dart';
-import 'package:payflow/shared/themes/app_text.styles.dart';
+import 'package:payflow/shared/themes/app_text_styles.dart';
 
 import '../../themes/app_colors.dart';
 
